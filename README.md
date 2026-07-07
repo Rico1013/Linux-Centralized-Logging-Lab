@@ -533,17 +533,3 @@ sudo journalctl -u rsyslog -n 100
 本实验可以作为后续学习日志采集、监控告警和自动化运维的基础。
 
 ---
-
-## 13. 项目英文名
-
-推荐项目名：
-
-```text
-Linux Centralized Logging Lab
-```
-
-GitHub 仓库名可以使用：
-
-```text
-linux-centralized-logging-lab
-```
